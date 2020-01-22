@@ -1,0 +1,33 @@
+﻿.top-buffer {
+    margin-top: 50px;
+}
+
+.top-pading {
+    margin-top: 30px;
+}
+.label-pading {
+    margin-top: 20px;
+}
+.ui-datepicker-trigger {
+    cursor: pointer
+}
+#datepicker {
+    cursor: pointer;
+}
+.col-side-right {
+    flex: 0 0 20% !important;
+    max-width: 20%;
+}
+
+.col-side-left {
+    flex: 0 0 60%;
+    max-width: 50%;
+}
+.no-sort::after {
+    display: none !important;
+}
+
+.no-sort {
+    pointer-events: none !important;
+    cursor: default !important;
+}
